@@ -1,3 +1,7 @@
+![WhatsApp Image 2025-09-09 at 12 38 17 PM](https://github.com/user-attachments/assets/a1fd9af6-cc71-4bb8-b462-a5fd6238544e)
+![WhatsApp Image 2025-09-09 at 12 38 18 PM](https://github.com/user-attachments/assets/99d2a752-9ab2-4072-b60b-7f9ab5e5280b)
+![WhatsApp Image 2025-09-09 at 12 38 18 PM (1)](https://github.com/user-attachments/assets/cf6143f9-8781-4d25-b888-b5a6961e1510)
+![WhatsApp Image 2025-09-09 at 12 38 19 PM](https://github.com/user-attachments/assets/f421a916-e161-4121-b542-fbd751754963)
 🛠️ Tech Stack
 
 React Native (Expo) – For building the cross-platform app.
