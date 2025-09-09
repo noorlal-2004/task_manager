@@ -1,3 +1,14 @@
+🛠️ Tech Stack
+
+React Native (Expo) – For building the cross-platform app.
+
+Redux Toolkit – For global state management.
+
+React Navigation (Bottom Tabs + Stack) – For screen navigation.
+
+Expo Router (optional) – File-based routing support.
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
